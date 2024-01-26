@@ -10,6 +10,19 @@
   
 - ⚡ Fun fact: I have a very cute dog and she is the social queen who is really good at making friends, so everyone at my home learns from her!
 
+🛠️ Languages, Frameworks, and Tools
+
+[![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql&style=flat-square)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql&style=flat-square)](https://www.postgresql.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-blue?logo=tableau&style=flat-square)](https://www.tableau.com/)
+[![PowerBI](https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow?logo=powerbi&style=flat-square)](https://powerbi.microsoft.com/)
+[![Python](https://img.shields.io/badge/Python-Programming-green?logo=python&style=flat-square)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas&style=flat-square)](https://pandas.pydata.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?logo=pytorch&style=flat-square)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow&style=flat-square)](https://www.tensorflow.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter&style=flat-square)](https://jupyter.org/)
+[![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-orange?logo=amazon-aws&style=flat-square)](https://aws.amazon.com/)
+
 <!---
 coconita526/coconita526 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
