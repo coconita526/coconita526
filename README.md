@@ -6,9 +6,8 @@
 💼 I have over 4 years of working experience as a Hotel Revenue Analyst and more than 1 year of working experience as a Business Analyst.  
 💞️ I am currently seeking a full career transformation into a data-related role.  
 👀 I’m interested in Data Analysis, Data Visualization and Machine Learning!   
-🌱 I'm currently honing my skills in DAX, Python, and libraries such as scikit-learn, TensorFlow, and PyTorch.  
-  
-⚡ Fun fact: I have a very cute dog and she is the social queen who is really good at making friends, so everyone at my home learns from her!  
+🌱 I'm currently honing my skills in DAX, Python, and libraries such as scikit-learn, TensorFlow, and PyTorch.    
+⚡ Fun fact: I have a cute dog and she is the social queen who is really good at making friends so everyone at my home learns from her!  
 
 🛠️ Languages, Frameworks, and Tools
 
